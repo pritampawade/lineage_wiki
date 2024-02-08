@@ -21,7 +21,7 @@ install_method: fastboot_motorola
 is_ab_device: true
 kernel: {repo: android_kernel_motorola_sm6150, version: '4.14'}
 maintainers: [William, Hasaber8]
-models: [XT2067-2]
+models: [XT2067-2, XT2067-3]
 name: one fusion+ (India)
 network: [2G GSM, 2G CDMA, 3G UMTS, 3G CDMA2000, 4G LTE]
 peripherals: [Dual SIM, Fingerprint reader, Accelerometer, Gyroscope, Light sensor, Proximity sensor, GPS]
